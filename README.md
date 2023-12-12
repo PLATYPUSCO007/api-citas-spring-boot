@@ -11,9 +11,9 @@ Proyecto de programa Back-End Intermedio.
 
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot]([https://via.placeholder.com/468x300?text=App+Screenshot+Here](https://github.com/PLATYPUSCO007/api-citas-spring-boot/blob/main/public/img/1.png))
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot]([https://via.placeholder.com/468x300?text=App+Screenshot+Here](https://github.com/PLATYPUSCO007/api-citas-spring-boot/blob/main/public/img/2.png))
 
 
 ## Documentación
